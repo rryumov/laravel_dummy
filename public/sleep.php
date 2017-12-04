@@ -2,7 +2,7 @@
 
 echo date('h:i:s') . "\n";
 
-sleep(45);
+sleep(46);
 
 echo date('h:i:s') . "\n";
 
